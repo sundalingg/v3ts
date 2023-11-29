@@ -1,0 +1,14 @@
+dist
+node_modules
+.git
+.gitignore
+.eslintignore
+.eslintrc.js
+.vscode
+.vscodeignore
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/extensions.json
+.vscode/snippets
+.vscode/snippets/snippets.json

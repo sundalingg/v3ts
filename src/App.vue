@@ -1,13 +1,11 @@
-<script setup lang="ts">
-// import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
   <div>
-  <p>你好</p>
+    <el-button type="primary" :icon="Plus">按钮</el-button>
   </div>
-  <!-- <HelloWorld msg="Vite + Vue" /> -->
 </template>
-
+<script setup lang="ts">
+import {Plus} from  '@element-plus/icons-vue'
+// console.log('xxx111',import.meta.env)
+</script>
 <style scoped>
 </style>
